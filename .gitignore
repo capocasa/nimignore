@@ -1,0 +1,6 @@
+nimcache/
+bench/bench
+tests/test_glob
+tests/test_walker
+tests/test_oracle
+tests/test_git
